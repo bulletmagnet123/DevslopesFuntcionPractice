@@ -14,7 +14,9 @@
 */
 
 // Your code goes here
-
+function logMessage(){
+  console.log()
+}
 
 
 
