@@ -29,7 +29,7 @@ task/tasks description, and a placeholder for your code.
 Please, do **NOT** change or update:
 
 - Functions' arguments or their names.
-- Lines of code that are asked NOT to change or delete.
+- Lines of code that are asked NOT to change or delete.git
 - Files in the "data" folder.
 - Files in the "test" folder.
 
